@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToBase64String", "ImageToBase64String\ImageToBase64String.csproj", "{D0001D03-034E-43A5-AD68-23BA37436386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0001D03-034E-43A5-AD68-23BA37436386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0001D03-034E-43A5-AD68-23BA37436386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0001D03-034E-43A5-AD68-23BA37436386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0001D03-034E-43A5-AD68-23BA37436386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D917BBB-35F9-4ADA-9B67-4882EC5CAD42}
+	EndGlobalSection
+EndGlobal
